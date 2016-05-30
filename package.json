@@ -1,0 +1,19 @@
+{
+  "name": "onsenui-test",
+  "version": "1.0.0",
+  "description": "Test project for using OnsenUI with clojurescript",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "onsenui": "^2.0.0-rc.6",
+    "react-onsenui": "^0.2.10"
+  }
+}
