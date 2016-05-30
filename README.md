@@ -1,10 +1,10 @@
 # onsenui-test
 
-A Clojure library designed to ... well, that part is up to you.
+Testing onsenui in cljs, using reagent.
 
 ## Usage
 
-FIXME
+Run `npm install` then `lein cljsbuild auto`. Host the root directory in a local webserver, then navigate to index.html.
 
 ## License
 
